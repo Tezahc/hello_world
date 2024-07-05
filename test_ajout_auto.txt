@@ -1,0 +1,3 @@
+ceci est un test pour déterminier si
+git commit -a
+ajoute automatiquement les nouveaux fichiers ou pas 
